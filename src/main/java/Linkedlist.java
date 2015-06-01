@@ -6,8 +6,8 @@ import java.util.List;
  */
 public class Linkedlist {
     public static void main(String[] args) {
-        String[]colors = {"yellow" , "green", "blue" , "black"};
-      //  List string = new LinkedList<String//
+
+
 
 
     }
