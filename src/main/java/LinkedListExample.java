@@ -19,7 +19,6 @@ public class LinkedListExample {
         links.add("pink");
         links.add("green");
         links.addFirst("brown");
-
         System.out.println(links);
 
     }

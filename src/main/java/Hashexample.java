@@ -10,14 +10,20 @@ public class Hashexample {
     public static void main(String[] args) {
         // create and add object in an hashmap
 
-     //   HashMap<String, Integer> source = new Hashtable<String, Integer>();
-       // HashMap<Integer, String> map = new HashMap<Integer
+        //   HashMap<String, Integer> source = new Hashtable<String, Integer>();
+        // HashMap<Integer, String> map = new HashMap<Integer
 
 
     }
+
     //2.converting a map to a list
-   // keylist
-    List keyList = new ArrayList(Collections.emptyMap().keySet());
+    // keylist
 
 
-}
+    HashMap<String, Integer> source = new HashMap<String, Integer>();
+
+
+        }
+
+
+
